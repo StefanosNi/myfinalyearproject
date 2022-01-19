@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907323797101",
+    "project_id": "trophy-22b50",
+    "storage_bucket": "trophy-22b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907323797101:android:43177cf3304c2b3c961964",
+        "android_client_info": {
+          "package_name": "com.org.competition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907323797101-45s5pldcjlihr13d0mc33q1f1u6p3tkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGiEC9O2DNe1jTNY71buAeWjbR-Qynro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907323797101-45s5pldcjlihr13d0mc33q1f1u6p3tkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

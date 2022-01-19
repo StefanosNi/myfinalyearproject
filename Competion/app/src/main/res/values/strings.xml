@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Trophy</string>
+    <string name="google_maps_key">AIzaSyCz0GPyWuKVDQllNXhK9Middu08KXA8ghY</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="account_exist">Don\'t have an account ?</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="birth">Birthday</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="upload_profile">Upload Profile</string>
+    <string name="go">Let\'s go</string>
+    <string name="no_network">Not network connection !</string>
+    <string name="local_sport">Compit</string>
+    <string name="events">Events</string>
+    <string name="map">Map</string>
+    <string name="profile">Profile</string>
+    <string name="address">Address</string>
+    <string name="sport">Sport</string>
+    <string name="price">Price</string>
+    <string name="players">Players</string>
+    <string name="event">Event</string>
+    <string name="follow">Followers</string>
+    <string name="ranking">Ranking</string>
+    <string name="not_ranking">Not Ranking</string>
+    <string name="bronze">Bronze</string>
+    <string name="silver">Silver</string>
+    <string name="gold">Gold</string>
+    <string name="platinum">Platinum</string>
+    <string name="diamond">Diamond</string>
+    <string name="users">Users</string>
+    <string name="follow_user">Follow User</string>
+    <string name="wins">Wins</string>
+    <string name="about_us">About Us</string>
+    <string name="join">Join</string>
+    <string name="cancel">Cancel</string>
+</resources>
